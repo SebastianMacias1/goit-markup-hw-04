@@ -37,7 +37,7 @@
     flex-shrink: 0;
     border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
 background: var(--WHITE, #FFF);
-box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08);
+box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .nav {
     display: flex;
@@ -164,6 +164,7 @@ color:#404bbf
     background-position: center;
     background-size: cover;
     background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-in-office.jpg);
+    max-width: 1440px;
 
 
 }
@@ -233,7 +234,7 @@ border-radius: 4px;
     background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
-    
+
 }
 
 .list-item-two {

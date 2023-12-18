@@ -37,6 +37,7 @@
     flex-shrink: 0;
     border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
 background: var(--WHITE, #FFF);
+box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .nav {
     display: flex;
@@ -159,6 +160,11 @@ color:#404bbf
 .section-first {
     background: var(--NAVY-BLUE, #2E2F42);
     padding: 188px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-in-office.jpg);
+
 
 }
 

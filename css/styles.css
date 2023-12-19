@@ -323,7 +323,16 @@ margin-bottom: 72px;
     width: calc((100% - 48px) / 3);
     list-style: none;
 }
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.instagram {
+    width: 40px;
 
+}
+.social-media-icon-link {}
 
 .list-one {
     background-color: #FFFFFF;

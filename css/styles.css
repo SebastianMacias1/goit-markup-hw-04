@@ -354,10 +354,12 @@ margin-bottom: 72px;
 
 
 
-.social-media-icon-link:active {
+.social-media-icon-link:focus {
     background-color: #404bbf;
 }
-
+.social-media-icon-link:hover {
+    background-color: #404bbf;
+}
 
 .svg-icon-social-media {
     fill: #f4f4fd;

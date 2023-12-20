@@ -350,6 +350,10 @@ margin-bottom: 72px;
     fill: #f4f4fd;
 }
 
+.social-media-icon-link {
+width: 100%; 
+ height: 100%;
+}
 
 .social-media-list {
     display: flex;

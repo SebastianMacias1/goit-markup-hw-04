@@ -337,8 +337,7 @@ margin-bottom: 72px;
     gap: 24px;
 }
 .social-media-blue {
-    width: 40px;
-    height: 40px;
+   
 
 }
 .social-media-icon-link {
@@ -371,6 +370,8 @@ margin-bottom: 72px;
     display: flex;
     justify-content: center;
     gap: 24px;
+    width: 40px;
+    height: 40px;
 
 }
 

@@ -354,7 +354,7 @@ margin-bottom: 72px;
 
 
 
-.social-media-icon-link :active {
+.social-media-icon-link:active {
     background-color: #404bbf;
 }
 

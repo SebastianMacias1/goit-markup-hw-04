@@ -14,7 +14,7 @@
     --title-image-color: var(--NAVY-BLUE, #2E2F42);
     --text-image-color: var(--SLATE, #434455);
     --border-color: var(--CORNFLOWER, #E7E9FC);
-    
+    --border-color: var(#8e8f99);
 }
 
 * ,
@@ -265,6 +265,7 @@ color:#404bbf
     text-transform: capitalize;
 }
 
+
 .list-section-four {
     display: flex;
     gap: 24px;
@@ -287,9 +288,9 @@ color:#404bbf
 }
 
 .social-media-icon-link {
-    background-color: var(--social-media-icon-link-background);
+    background-color: var(--filter-button-color);
     border-radius: 50%;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
     width:100%;
@@ -477,7 +478,7 @@ img {
 
 }
 
-.customer-lists {
+.customer-list {
     display: flex;
     gap: 24px;
 
@@ -487,11 +488,13 @@ img {
     height: 88px;
 }
 .customer-link {
-    border: 1px solid #8e8f99;
+    border: 1px solid var(#8e8f99);
     border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100%;
+    width: 100%;
     color: var(--customer-link-color)
 }
 .customer-link:focus,
@@ -548,3 +551,4 @@ img {
     border-radius: 4px;
     margin-bottom: 8px;
 }
+

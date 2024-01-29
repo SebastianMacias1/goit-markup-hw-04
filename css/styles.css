@@ -289,7 +289,7 @@ color:#404bbf
 .social-media-icon-link {
     background-color: var(--social-media-icon-link-background);
     border-radius: 50%;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     width:100%;

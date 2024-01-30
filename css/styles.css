@@ -513,6 +513,7 @@ img {
 }
 .div-footer {
     margin-right: 120px;
+   
 
 }
 .p-social-networks {
@@ -557,3 +558,7 @@ img {
     margin-bottom: 8px;
 }
 
+.div-container {
+    display: flex;
+    align-items: baseline;
+}

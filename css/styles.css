@@ -14,7 +14,7 @@
     --title-image-color: var(--NAVY-BLUE, #2E2F42);
     --text-image-color: var(--SLATE, #434455);
     --border-color: var(--CORNFLOWER, #E7E9FC);
-    --border-color: var(#8e8f99);
+    --border-color-gray: var(#8e8f99);
 }
 
 * ,

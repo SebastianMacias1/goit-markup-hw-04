@@ -485,11 +485,10 @@ img {
 
 .customer-list {
     height: 88px;
-}
-
-.customers-list {
     width: calc((100% - 120px) / 6);
 }
+
+
 .customer-link {
     border: 1px solid var(#8e8f99);
     border-radius: 4px;

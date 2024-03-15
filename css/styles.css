@@ -505,6 +505,7 @@ img {
     width: calc((100% - 48px) / 3);
     list-style: none;
 }
+
 .p-portfolio {
     font-family: var(--font-family);
     font-weight: 400;
@@ -513,18 +514,9 @@ img {
     letter-spacing: 0.02em;
     color: var(--contact-color);
     text-align: left;
-    padding: 40px 32px;
-    background-color: #4d5ae5;
     height: 100%;
     width: 100%;
-    
-
-
 }
-
-
-
-
 
 .list-our-portfolio {
     padding: 0;

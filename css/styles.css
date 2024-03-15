@@ -683,11 +683,11 @@ img {
     background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
     
 }
-.footer-reference:hover {
+.footer-reference-link:hover {
     background-color: #31d0aa;
 }
 
-.footer-reference:focus {
+.footer-reference-link:focus {
     background-color: #31d0aa;
 }
 
